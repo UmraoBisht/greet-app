@@ -21,7 +21,7 @@ A simple web application with a backend API and frontend UI to generate personal
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/greeting-app.git
+   git clone https://github.com/UmraoBisht/greet-app.git
    cd greeting-app/backend
    ```
 2. Install dependencies:
@@ -32,7 +32,7 @@ A simple web application with a backend API and frontend UI to generate personal
    ```sh
    npm start
    ```
-4. The server will run at `http://localhost:5000`
+4. The server will run at `http://localhost:8000`
 
 ---
 
@@ -56,7 +56,7 @@ A simple web application with a backend API and frontend UI to generate personal
    ```sh
    npm start
    ```
-4. The frontend will be accessible at `http://localhost:3000`
+4. The frontend will be accessible at `http://localhost:5173`
 
 ---
 
